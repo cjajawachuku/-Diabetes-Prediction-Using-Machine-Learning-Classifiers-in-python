@@ -1,0 +1,33 @@
+{
+  "kernelspec": {
+    "name": "python3",
+    "display_name": "Python 3 (ipykernel)",
+    "language": "python"
+  },
+  "language_info": {
+    "name": "python",
+    "version": "3.7.12",
+    "mimetype": "text/x-python",
+    "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+    },
+    "pygments_lexer": "ipython3",
+    "nbconvert_exporter": "python",
+    "file_extension": ".py"
+  },
+  "title": {
+  	"Diabetes Prediction Using Machine Learning Classifiers in python"
+  },
+  "description": {
+  "The objective of this notebook is performing data analysis and developing machine learning algorithms
+  to predict the diagnosis of whether or not a patient has diabetes, based on certain medical measurements 
+  included in the diabetes dataset."
+  },
+  "author": {
+  "Chukwuemeka Jaja-Wachuku"
+  },
+  "tags": {
+  ["data analysis", "machine learning" "Jupyter Notebook"]
+  }
+}
